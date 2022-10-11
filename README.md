@@ -1,1 +1,1 @@
-mosaikartTest.github.io
+mosaikarttest.github.io
