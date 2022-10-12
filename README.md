@@ -1,2 +1,2 @@
 
-https://oguzhan-baysal.github.io/mosaikarttest.github.io/
+https://mosaikartat.netlify.app
